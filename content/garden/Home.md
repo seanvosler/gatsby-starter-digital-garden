@@ -1,0 +1,12 @@
+- ## Main Sections
+    - [[My Writings]] - Any and all of the things I write for anything
+    - [[Research-Paper]] - area to pull together various nuggets & add related topics 
+    - [[Sources Capture Page]] - Captured literary sources
+    - [[Nugget]] - A nugget is a raw bit of #Knowledge #Insight-Wisdom #Understanding or #Data from a source. These are "processed" bits of knowledge.
+    - [[My Thoughts]] - If a nugget has a #MyThought tag in the header of the brief than it is written in my words
+    - [[Quotes Capture Page]] - A place to capture and tag favorite quotes
+    - [[My Templates]] - Holds all the templates for my Roam
+    - [[SOPs]] - Holds any internal process documents I may create for my business or life.
+        - {{[[query]]: {and: [[SOP]] [[SOP]]}}}
+- ## Other Stuff
+    - To Modify Roam CSS visit: [[roam/css]] #roam-meta
